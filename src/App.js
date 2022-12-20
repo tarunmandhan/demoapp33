@@ -1,9 +1,11 @@
 import React from "react";
+import Accordion from "./Accordion";
+import "./Accordion.css";
 
 const App = () => {
   return (
     <>
-      <h1>Tarun</h1>
+      <Accordion />
     </>
   );
 };
